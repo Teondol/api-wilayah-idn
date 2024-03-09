@@ -1,0 +1,30 @@
+{
+  "name": "api-wilayah-idn",
+  "version": "1.0.0",
+  "description": "API untuk mendapatkan data wilayah Indonesia",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Teondol/api-wilayah-idn.git"
+  },
+  "keywords": [
+    "api",
+    "wilayah",
+    "zone",
+    "zona",
+    "indonesia"
+  ],
+  "author": "Teondol",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Teondol/api-wilayah-idn/issues"
+  },
+  "homepage": "https://github.com/Teondol/api-wilayah-idn#readme",
+  "dependencies": {
+    "express": "^4.18.3",
+    "mysql": "^2.18.1"
+  }
+}
