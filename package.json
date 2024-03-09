@@ -1,6 +1,6 @@
 {
   "name": "api-wilayah-idn",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "API untuk mendapatkan data wilayah Indonesia",
   "main": "app.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Teondol/api-wilayah-idn.git"
+    "url": "https://github.com/Teondol/api-wilayah-idn.git"
   },
   "keywords": [
     "api",
